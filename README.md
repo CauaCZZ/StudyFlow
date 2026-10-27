@@ -16,6 +16,12 @@ Desenvolvido durante a imersão **Engenharia de Software Dev na Era da IA**, da 
 
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/728189ed-a21a-4ae4-8e0d-239ddf0247b9" width="450" alt="Dashboard do StudyFlow" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/fc373091-8417-4949-aa2f-af72a1430bd4" width="450" alt="Objetivos de estudo do StudyFlow" />
+</div>
+
 ---
 
 ## 📌 Sobre o projeto
